@@ -1,8 +1,8 @@
-# 贪吃蛇游戏
+tatsu# 贪吃蛇游戏
 
 一个使用HTML, CSS和JavaScript实现的经典贪吃蛇游戏。
 
-![贪吃蛇游戏截图](https://via.placeholder.com/400x400.png?text=贪吃蛇游戏)
+![贪吃蛇游戏截图](README/image.png)
 
 ## 游戏介绍
 
